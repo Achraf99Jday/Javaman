@@ -1,2 +1,2 @@
 # Javaman
-A pacman game i coded in Java to learn more about the OOP paradigm.
+A pacman game i coded in Java to explore more of the OOP paradigm.
