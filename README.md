@@ -3,4 +3,4 @@ Our hero, JavaMan, roams the world in search of his princess Javette. He must av
 
 ## TO DO
 - Fix the bugs
-- finish the element class 
+- Finish the element class 
