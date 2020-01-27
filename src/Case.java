@@ -1,6 +1,6 @@
 public class Case {
 	private boolean[] tab = new boolean[4];
-	private byte mur;
+	private int mur;
 	public Case(byte mur) {
 		this.mur = mur;
 	}
